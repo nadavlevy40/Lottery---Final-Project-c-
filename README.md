@@ -1,3 +1,9 @@
+
+
+![3](https://user-images.githubusercontent.com/69619783/201052121-d1f27735-a4a4-432c-b4bc-001b6e9f8e18.jpg)
+
+
+
 # Lottery---Final-Project-c-
 My final project of the course "Advenced Programming In C " - Lottery Machine .
 
@@ -17,3 +23,5 @@ Data Structures used :
 In addition , used Bitwise operation in order to extract the data from the binary files that were created . 
 
 Hope you have fun playing this lottery game 
+
+
