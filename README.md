@@ -36,6 +36,9 @@ The user starts a new game and chooses to participate with 3 columns. They enter
 
 2. Binary files: The program uses a binary file to store the game data for future use.
 
+## Bitwise Operations:
+
+The program uses bitwise operations to compress and decompress the columns and winning column when saving and loading from the binary file. This is done by using masks and shifting bits.
 
 Have fun!
 
