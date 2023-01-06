@@ -38,7 +38,8 @@ The user starts a new game and chooses to participate with 3 columns. They enter
 
 ## Bitwise Operations:
 
-The program uses bitwise operations to compress and decompress the columns and winning column when saving and loading from the binary file. This is done by using masks and shifting bits.
+The program uses bitwise operations to compress and decompress the columns and winning column when saving and loading from the binary file.
+The values of each pair of numbers in the column are stored in a single byte using a mask and shifting bits.
 
 Have fun!
 
